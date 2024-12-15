@@ -1,4 +1,4 @@
-[data-theme="violet"] {
+[data-theme="brown"] {
     --gradient: rgba(181, 136, 99, 0.2);
     --900: rgba(102, 51, 0);
     --800: rgba(123, 63, 0);
@@ -524,7 +524,7 @@
 	--900-90: rgba(6, 78, 59, .90);
 }
 .bg-500 { background: var(--500); }
-.text-500-violet { color: rgba(213,204,195,255); }
+.text-500-brown { color: rgba(213,204,195,255); }
 .text-500-blue { color: rgba(59, 130, 246); }
 .text-500-emerald { color: rgb(16, 185, 129); }
 .text-500-rose { color: rgb(239, 68, 68); }
