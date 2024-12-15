@@ -82,7 +82,7 @@ export default function Index() {
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/1128338962868621392/1301899441086926910/Yuki_Suou_Discord_Bot.gif?ex=675f8116&is=675e2f96&hm=0eff2820656e026cbe856ff92a367addf1a3a1dee0ca3567a53d3bfbeb6caeac&"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Meta Ai Contribution</p>
+                  <p className="text-3xl text-white font-semibold">Meta AI Contribution</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Yuki Suou, the best and most up-to-date bot?</p>
                 </div>
                 <img src="https://media.discordapp.net/attachments/1128338962868621392/1301899441086926910/Yuki_Suou_Discord_Bot.gif?ex=675f8116&is=675e2f96&hm=0eff2820656e026cbe856ff92a367addf1a3a1dee0ca3567a53d3bfbeb6caeac&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
