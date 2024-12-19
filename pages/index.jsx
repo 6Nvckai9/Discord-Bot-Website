@@ -13,7 +13,7 @@ export default function Index() {
           YUKI SUOU
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Top #1 Best ChatBot Ai Indonesia Discord  
+       Top #1 Best ChatBot Ai
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
